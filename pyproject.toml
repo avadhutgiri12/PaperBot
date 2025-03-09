@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "telegram-bot"
+version = "0.1.0"
+description = "A Telegram bot for question paper downloads"
+authors = ["Your Name avadhut"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-telegram-bot = "^20.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
