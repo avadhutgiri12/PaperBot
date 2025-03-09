@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 # Dictionary with question paper links
 question_papers = {
     "Class 10 - Mathematics": "https://www.dropbox.com/s/sample10_math.pdf?raw=1",
-    "Class 10 - Mathematics": "https://www.dropbox.com/scl/fi/h78jo7a271g0xxsjfc4ku/english.pdf?rlkey=1z46x7mqqertpvbyvqn15s95i&st=8x3rr8j5&raw=1",
+    "Class 10 - English": "https://www.dropbox.com/scl/fi/h78jo7a271g0xxsjfc4ku/english.pdf?rlkey=1z46x7mqqertpvbyvqn15s95i&st=8x3rr8j5&raw=1",
     "Class 10 - Science": "https://www.dropbox.com/s/sample10_science.pdf?raw=1",
     "Class 12 - Physics": "https://www.dropbox.com/s/sample12_physics.pdf?raw=1",
     "Class 12 - Chemistry": "https://www.dropbox.com/s/sample12_chemistry.pdf?raw=1"
